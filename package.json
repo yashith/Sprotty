@@ -1,0 +1,25 @@
+{
+  "name": "vanilla-typescript",
+  "version": "1.0.0",
+  "description": "JavaScript and TypeScript example starter project",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "inversify": "5.0.1",
+    "reflect-metadata": "0.1.13",
+    "snabbdom": "0.7.4",
+    "snabbdom-jsx": "0.4.2",
+    "snabbdom-virtualize": "0.7.0",
+    "sprotty": "0.8.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ]
+}
